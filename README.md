@@ -29,10 +29,10 @@ PC0 → Switch → PC1
 ## 📸 Evidence
 
 ### Network Topology
-![Topology](topology.png)
+![Topology](topology.png.png)
 
 ### Ping Test
-![Ping Result](ping-result.png)
+![Ping Result](ping-result.png.png)
 
 ---
 
