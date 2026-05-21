@@ -53,7 +53,7 @@ PC0 → Switch → PC1
 ![Topology](topology(8).png)
 
 ### Ping Test
-![Ping Result](ping-result.png.png)
+![Ping Result](ping-result.png)
 
 ---
 
