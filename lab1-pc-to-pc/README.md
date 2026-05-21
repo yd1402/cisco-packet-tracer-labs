@@ -29,28 +29,28 @@ PC0 → Switch → PC1
 ## 📸 Evidence
 
 ### Network Topology
-![Topology](topology.png.png)
+![Topology](topology.png)
 
 ### Network Topology
-![Topology](topology.png2.png)
+![Topology](topology.png2)
 
 ### Network Topology
-![Topology](topology.png3.png)
+![Topology](topology.png3)
 
 ### Network Topology
-![Topology](topology.png4.png)
+![Topology](topology.png4)
 
 ### Network Topology
-![Topology](topology.png5.png)
+![Topology](topology.png5)
 
 ### Network Topology
-![Topology](topology.png6.png)
+![Topology](topology.png6)
 
 ### Network Topology
-![Topology](topology.png7.png)
+![Topology](topology.png7)
 
 ### Network Topology
-![Topology](topology.png8.png)
+![Topology](topology.png8)
 
 ### Ping Test
 ![Ping Result](ping-result.png.png)
