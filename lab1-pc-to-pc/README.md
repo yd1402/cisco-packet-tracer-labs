@@ -32,25 +32,25 @@ PC0 → Switch → PC1
 ![Topology](topology.png)
 
 ### Network Topology
-![Topology](topology(2).png)
+![Topology](topology (2).png)
 
 ### Network Topology
-![Topology](topology(3).png)
+![Topology](topology (3).png)
 
 ### Network Topology
-![Topology](topology(4).png)
+![Topology](topology (4).png)
 
 ### Network Topology
-![Topology](topology(5).png)
+![Topology](topology (5).png)
 
 ### Network Topology
-![Topology](topology(6).png)
+![Topology](topology (6).png)
 
 ### Network Topology
-![Topology](topology(7).png)
+![Topology](topology (7).png)
 
 ### Network Topology
-![Topology](topology(8).png)
+![Topology](topology (8).png)
 
 ### Ping Test
 ![Ping Result](ping-result.png.png)
