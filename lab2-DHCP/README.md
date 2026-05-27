@@ -64,11 +64,29 @@ show mac address-table
 
 ![DORA Process](dora-process.png)
 
+![DORA Process](dora-process(2).png)
+
+![DORA Process](dora-process(3).png)
+
+![DORA Process](dora-process(4).png)
+
+![DORA Process](dora-process(5).png)
+
 ---
 
 ## Ping Test
 
 ![Ping Test](ping-test.png)
+
+![Ping Test](ping-test(2).png)
+
+![Ping Test](ping-test.(3)png)
+
+![Ping Test](ping-test(4).png)
+
+![Ping Test](ping-test(5).png)
+
+![Ping Test](ping-test(6).png)
 
 ---
 
@@ -81,6 +99,8 @@ show mac address-table
 ## Router Configuration
 
 ![Router Configuration](Router-Configuration.png)
+
+![Router Configuration](Router-Configuration(2).png)
 
 ---
 
