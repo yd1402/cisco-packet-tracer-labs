@@ -7,7 +7,9 @@ Configured a router as a DHCP server in Cisco Packet Tracer to automatically ass
 
 ## Network Topology
 
-![Topology](topology.png)
+![Topology](topology-lab2.png)
+
+![Topology](topology-lab2(2).png)
 
 ---
 
