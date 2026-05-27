@@ -1,14 +1,13 @@
 # Lab 02 — DHCP Configuration
 
 ## Objective
-The objective of this lab was to configure a router as a DHCP server in Cisco Packet Tracer and allow client PCs to automatically receive IP addresses.
+Configured a router as a DHCP server in Cisco Packet Tracer to automatically assign IP addresses to client PCs.
 
 ---
 
 ## Network Topology
 
-PC0 → Switch → Router  
-PC1 → Switch → Router
+![Topology](topology.png)
 
 ---
 
@@ -22,10 +21,10 @@ PC1 → Switch → Router
 ## Skills Practiced
 - DHCP configuration
 - Router configuration
-- IP address assignment
+- IP assignment
 - Connectivity testing
-- Packet flow analysis
-- DORA process observation
+- DORA process analysis
+- MAC address learning
 
 ---
 
@@ -59,12 +58,30 @@ show mac address-table
 
 ---
 
+## DORA Process
+
+![DORA Process](dora-process.png)
+
+---
+
+## Ping Test
+
+![Ping Test](ping-test.png)
+
+---
+
+## MAC Address Table
+
+![MAC Table](mac-address-table.png)
+
+---
+
 ## What I Observed
-- DHCP Discover packets were broadcast across the network
-- The switch forwarded DHCP traffic to connected devices
-- PCs automatically received IP addresses from the router
+- DHCP Discover packets were broadcast to all devices
+- The switch forwarded DHCP traffic
+- PCs automatically received IP addresses
 - The DORA process was visible in simulation mode
-- The switch learned MAC addresses dynamically
+- The switch dynamically learned MAC addresses
 
 ---
 
@@ -75,13 +92,9 @@ show mac address-table
 ---
 
 ## SOC Relevance
-Understanding DHCP is important in SOC operations because analysts use DHCP logs to:
-- identify devices on a network
-- trace IP address assignments
-- investigate suspicious systems
-- analyze internal network activity
+Understanding DHCP is important for SOC analysts because DHCP logs help identify devices, track IP assignments, and investigate suspicious network activity.
 
 ---
 
 ## Outcome
-Successfully configured DHCP in Cisco Packet Tracer and verified connectivity between devices using ping.
+Successfully configured DHCP in Cisco Packet Tracer and verified connectivity between devices.
