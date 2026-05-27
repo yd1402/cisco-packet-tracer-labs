@@ -74,7 +74,7 @@ show mac address-table
 
 ## MAC Address Table
 
-![MAC Table](mac-address-table.png)
+![MAC Table](mac-addeess-table.png)
 
 ---
 
