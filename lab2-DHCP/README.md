@@ -76,6 +76,12 @@ show mac address-table
 
 ---
 
+## Router Configuration
+
+![Router Configuration](Router-Configuration.png)
+
+---
+
 ## What I Observed
 - DHCP Discover packets were broadcast to all devices
 - The switch forwarded DHCP traffic
@@ -98,3 +104,9 @@ Understanding DHCP is important for SOC analysts because DHCP logs help identify
 
 ## Outcome
 Successfully configured DHCP in Cisco Packet Tracer and verified connectivity between devices.
+
+## Result
+
+![Result](result.png)
+
+---
